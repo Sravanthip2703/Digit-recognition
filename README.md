@@ -3,7 +3,6 @@ This project uses a Convolutional Neural Network (CNN) to recognize handwritten 
 
 Project Overview
 The objective of this project is to:
-
 Build and train a CNN to recognize handwritten digits.
 Use data augmentation to improve model generalization.
 Capture handwritten digits using a webcam.
